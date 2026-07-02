@@ -1,2 +1,2 @@
 # DEG
-Convert geographical coordinates from 'Hour Minue Second' to 'Decimal Degrees'
+Convert geographical coordinates from 'Hour Minute Second' to 'Decimal Degrees'
