@@ -9,13 +9,6 @@ class Position {
         Position();
         double lat{};
         double lon{};
-        double alt{};
-        double X{};
-        double Y{};
-        int dir{0}; //used for specifying heading on stand/lineup
-        std::string rwy{};  //for final points
-        int dme{};  //for final points
-        int idx{};  //for final points
 };
 
 #endif // POSITION_H
