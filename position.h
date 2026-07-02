@@ -3,7 +3,6 @@
 
 class Position {
     public:
-        Position();
         double lat{};
         double lon{};
 };
