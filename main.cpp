@@ -6,9 +6,19 @@ using namespace std;
 int main()
 {
     GeoUtils geo;
-    Position p = geo.ConvertHMStoDD(35,41,20,51,18,53);
+    Position p;
 
-    cout << p.lat << ", " << p.lon << endl;
+    double latH, latM, latS;
+    double lonH, lonM, lonS;
+
+    cout << "Enter latitude H,M,S: " << endl;
+    cin >> latH >> latM >> latS;
+
+    cout << "Enter lonitude H,M,S: " << endl;
+    cin >> lonH >> lonM >> lonS;
+
+    p = geo.ConvertHMStoDD(latH,latM,latS,lonH,lonM,lonS);
+    cout << "The coordinate in decimal degrees: " << p.lat << ", " << p.lon << endl;
 
     return 0;
 }
