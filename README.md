@@ -1,7 +1,7 @@
 # coordinate-converter
-Convert geographical coordinates from 'Hour Minute Second' to 'Decimal Degrees' in C++.
+Convert geographical coordinates from 'Degree Minute Second' to 'Decimal Degrees' in C++.
 
-Simply enter three latitude coordinate values in hour/minute/second, press 'Enter key' and enter three values for longitude.
+Simply enter three latitude coordinate values in degree/minute/second, press 'Enter key' and enter three values for longitude.
 
 Note: enter space-separated values in terminal.
 
