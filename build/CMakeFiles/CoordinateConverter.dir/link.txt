@@ -1,1 +1,0 @@
-/usr/bin/c++ -Wl,--dependency-file=CMakeFiles/CoordinateConverter.dir/link.d CMakeFiles/CoordinateConverter.dir/src/main.cpp.o CMakeFiles/CoordinateConverter.dir/src/GeoUtils.cpp.o -o CoordinateConverter
