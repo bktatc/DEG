@@ -1,0 +1,7 @@
+/home/m/Downloads/coordinate-converter/build/CMakeFiles/CoordinateConverter.dir
+/home/m/Downloads/coordinate-converter/build/CMakeFiles/edit_cache.dir
+/home/m/Downloads/coordinate-converter/build/CMakeFiles/rebuild_cache.dir
+/home/m/Downloads/coordinate-converter/build/CMakeFiles/list_install_components.dir
+/home/m/Downloads/coordinate-converter/build/CMakeFiles/install.dir
+/home/m/Downloads/coordinate-converter/build/CMakeFiles/install/local.dir
+/home/m/Downloads/coordinate-converter/build/CMakeFiles/install/strip.dir
