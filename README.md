@@ -6,3 +6,9 @@ Simply enter three latitude coordinate values in degree/minute/second, press 'En
 Note: enter space-separated values in terminal.
 
 The app gives you converted coordinates in decimal degrees.
+
+To Build (Ubuntu):
+    $ mkdir build
+    $ cd build
+    $ cmake ..
+    $ cmake --build .
