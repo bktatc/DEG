@@ -6,7 +6,7 @@ using namespace std;
 int main()
 {
     GeoUtils geo;
-    Position p;
+    GeoPoint p;
 
     // variables to store data given by cin
     double latH, latM, latS;

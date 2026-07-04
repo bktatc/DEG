@@ -1,13 +1,13 @@
 #ifndef GEOUTILS_H
 #define GEOUTILS_H
 
-#include "Position.h"
+#include "GeoPoint.h"
 
 class GeoUtils
 {
 public:
     GeoUtils();
-    Position ConvertHMStoDD(double latH, double latM, double latS,
+    GeoPoint ConvertHMStoDD(double latH, double latM, double latS,
                             double lonH, double lonM, double lonS);
 };
 
