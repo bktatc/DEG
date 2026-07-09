@@ -10,3 +10,6 @@ $ mkdir build
 $ cd build
 $ cmake ..
 $ cmake --build .
+
+<img width="498" height="445" alt="gui-screenshot" src="https://github.com/user-attachments/assets/3ad88a87-97ac-4515-bfbf-503fa97a45f7" />
+
